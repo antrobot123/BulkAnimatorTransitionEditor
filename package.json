@@ -1,0 +1,12 @@
+{
+  "name": "com.antrobot.bulkanimatortransitioneditor",
+  "displayName": "Bulk Animator Transition Editor",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Editor script to automate animator transitions in VRChat projects.",
+  "author": {
+    "name": "antrobot",
+    "email": "antrobot1234@gmail.com"
+  },
+  "vpmDependencies": {}
+}
